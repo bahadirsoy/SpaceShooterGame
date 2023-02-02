@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/TestbuildScene.unity
+    guid: f65a77efb2d9e174e8286cd60d1b7bab
+  - enabled: 1
+    path: Assets/Scenes/SpaceShooter2022_main.unity
+    guid: 741ad6f212d387246b8c170ee7d1ca00
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 47c76c14cbf8a0144b06ecca5ccc7d1a,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3a17c56def63bd945a416f1dbb5a1f98,
+      type: 2}
